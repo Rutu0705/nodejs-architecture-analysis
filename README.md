@@ -1,6 +1,9 @@
 # Node.js Architecture and Design Analysis
 
-This repository contains an analysis of Node.js, focusing on both the architecture and design.
+
+Team analysis of the Node.js runtime (v25.9.0) for the Software Design and Architecture course, Politecnico di Torino.
+Focus: the JavaScript core library (lib/), its dependency structure, design patterns and layered architecture
+(JavaScript library → C++ bindings → V8/libuv).
 
 ## Team Members
 * **Kourosh Namjoo Fard** - s338151
